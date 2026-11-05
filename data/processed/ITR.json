@@ -1,0 +1,3770 @@
+{
+  "arquivo": "ITR.pdf",
+  "empresa": "CYRELA BRAZIL REALTY S.A.EMPREEND E PART",
+  "data_base": "30/06/2026",
+  "unidade": "Reais mil",
+  "demonstracoes": {
+    "individuais/balanco_ativo": {
+      "colunas": [
+        "atual",
+        "exercicio_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "1",
+          "descricao": "Ativo Total",
+          "valores": [
+            16486989,
+            16009725
+          ]
+        },
+        {
+          "codigo": "1.01",
+          "descricao": "Ativo Circulante",
+          "valores": [
+            2388314,
+            2661524
+          ]
+        },
+        {
+          "codigo": "1.01.01",
+          "descricao": "Caixa e Equivalentes de Caixa",
+          "valores": [
+            14210,
+            383757
+          ]
+        },
+        {
+          "codigo": "1.01.01.01",
+          "descricao": "Caixa e Equivalentes de Caixa",
+          "valores": [
+            14210,
+            383757
+          ]
+        },
+        {
+          "codigo": "1.01.02",
+          "descricao": "Aplicações Financeiras",
+          "valores": [
+            2074924,
+            2058404
+          ]
+        },
+        {
+          "codigo": "1.01.02.01",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através do Resultado",
+          "valores": [
+            1019898,
+            984270
+          ]
+        },
+        {
+          "codigo": "1.01.02.01.03",
+          "descricao": "Titulos e Valores Mobiliários",
+          "valores": [
+            1019898,
+            984270
+          ]
+        },
+        {
+          "codigo": "1.01.02.02",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes",
+          "valores": [
+            925985,
+            1011028
+          ]
+        },
+        {
+          "codigo": "1.01.02.03",
+          "descricao": "Aplicações Financeiras Avaliadas ao Custo Amortizado",
+          "valores": [
+            129041,
+            63106
+          ]
+        },
+        {
+          "codigo": "1.01.03",
+          "descricao": "Contas a Receber",
+          "valores": [
+            13684,
+            13491
+          ]
+        },
+        {
+          "codigo": "1.01.03.01",
+          "descricao": "Clientes",
+          "valores": [
+            13684,
+            13491
+          ]
+        },
+        {
+          "codigo": "1.01.04",
+          "descricao": "Estoques",
+          "valores": [
+            54564,
+            17885
+          ]
+        },
+        {
+          "codigo": "1.01.04.01",
+          "descricao": "Imóveis a Comercializar",
+          "valores": [
+            54564,
+            17885
+          ]
+        },
+        {
+          "codigo": "1.01.06",
+          "descricao": "Tributos a Recuperar",
+          "valores": [
+            36762,
+            0
+          ]
+        },
+        {
+          "codigo": "1.01.06.01",
+          "descricao": "Tributos Correntes a Recuperar",
+          "valores": [
+            36762,
+            0
+          ]
+        },
+        {
+          "codigo": "1.01.06.01.02",
+          "descricao": "Impostos e Contribuições a Compensar",
+          "valores": [
+            36762,
+            0
+          ]
+        },
+        {
+          "codigo": "1.01.07",
+          "descricao": "Despesas Antecipadas",
+          "valores": [
+            32699,
+            39116
+          ]
+        },
+        {
+          "codigo": "1.01.07.01",
+          "descricao": "Despesas Antecipadas",
+          "valores": [
+            32699,
+            39116
+          ]
+        },
+        {
+          "codigo": "1.01.08",
+          "descricao": "Outros Ativos Circulantes",
+          "valores": [
+            161471,
+            148871
+          ]
+        },
+        {
+          "codigo": "1.01.08.03",
+          "descricao": "Outros",
+          "valores": [
+            161471,
+            148871
+          ]
+        },
+        {
+          "codigo": "1.01.08.03.01",
+          "descricao": "Demais Contas",
+          "valores": [
+            112064,
+            112684
+          ]
+        },
+        {
+          "codigo": "1.01.08.03.02",
+          "descricao": "Instrumentos Financeiros e Derivativos",
+          "valores": [
+            49407,
+            36187
+          ]
+        },
+        {
+          "codigo": "1.02",
+          "descricao": "Ativo Não Circulante",
+          "valores": [
+            14098675,
+            13348201
+          ]
+        },
+        {
+          "codigo": "1.02.01",
+          "descricao": "Ativo Realizável a Longo Prazo",
+          "valores": [
+            3587990,
+            3600849
+          ]
+        },
+        {
+          "codigo": "1.02.01.01",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através do Resultado",
+          "valores": [
+            35195,
+            25322
+          ]
+        },
+        {
+          "codigo": "1.02.01.01.01",
+          "descricao": "Títulos Designados a Valor Justo",
+          "valores": [
+            35195,
+            25322
+          ]
+        },
+        {
+          "codigo": "1.02.01.02",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes",
+          "valores": [
+            2248026,
+            2486642
+          ]
+        },
+        {
+          "codigo": "1.02.01.03",
+          "descricao": "Aplicações Financeiras Avaliadas ao Custo Amortizado",
+          "valores": [
+            106777,
+            112144
+          ]
+        },
+        {
+          "codigo": "1.02.01.04",
+          "descricao": "Contas a Receber",
+          "valores": [
+            189,
+            216
+          ]
+        },
+        {
+          "codigo": "1.02.01.04.01",
+          "descricao": "Clientes",
+          "valores": [
+            189,
+            216
+          ]
+        },
+        {
+          "codigo": "1.02.01.05",
+          "descricao": "Estoques",
+          "valores": [
+            108417,
+            130727
+          ]
+        },
+        {
+          "codigo": "1.02.01.05.01",
+          "descricao": "Imóveis a Comercializar",
+          "valores": [
+            108417,
+            130727
+          ]
+        },
+        {
+          "codigo": "1.02.01.09",
+          "descricao": "Créditos com Partes Relacionadas",
+          "valores": [
+            778977,
+            526815
+          ]
+        },
+        {
+          "codigo": "1.02.01.09.01",
+          "descricao": "Créditos com Coligadas",
+          "valores": [
+            778977,
+            526815
+          ]
+        },
+        {
+          "codigo": "1.02.01.10",
+          "descricao": "Outros Ativos Não Circulantes",
+          "valores": [
+            310409,
+            318983
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.03",
+          "descricao": "Impostos e Contribuições a Compensar",
+          "valores": [
+            147947,
+            161212
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.04",
+          "descricao": "Contas Cor. Parceiros nos Empreendimentos",
+          "valores": [
+            6065,
+            6098
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.05",
+          "descricao": "Demais Contas",
+          "valores": [
+            156397,
+            151673
+          ]
+        },
+        {
+          "codigo": "1.02.02",
+          "descricao": "Investimentos",
+          "valores": [
+            10445637,
+            9680846
+          ]
+        },
+        {
+          "codigo": "1.02.02.01",
+          "descricao": "Participações Societárias",
+          "valores": [
+            10445637,
+            9680846
+          ]
+        },
+        {
+          "codigo": "1.02.02.01.01",
+          "descricao": "Participações em Coligadas",
+          "valores": [
+            3289627,
+            3156760
+          ]
+        },
+        {
+          "codigo": "1.02.02.01.02",
+          "descricao": "Participações em Controladas",
+          "valores": [
+            7156010,
+            6524086
+          ]
+        },
+        {
+          "codigo": "1.02.03",
+          "descricao": "Imobilizado",
+          "valores": [
+            9854,
+            9579
+          ]
+        },
+        {
+          "codigo": "1.02.03.01",
+          "descricao": "Imobilizado em Operação",
+          "valores": [
+            9854,
+            9579
+          ]
+        },
+        {
+          "codigo": "1.02.04",
+          "descricao": "Intangível",
+          "valores": [
+            55194,
+            56927
+          ]
+        },
+        {
+          "codigo": "1.02.04.01",
+          "descricao": "Intangíveis",
+          "valores": [
+            55194,
+            56927
+          ]
+        },
+        {
+          "codigo": "1.02.04.01.03",
+          "descricao": "Gastos com Implantações",
+          "valores": [
+            1197,
+            1284
+          ]
+        },
+        {
+          "codigo": "1.02.04.01.04",
+          "descricao": "Software",
+          "valores": [
+            9779,
+            4823
+          ]
+        },
+        {
+          "codigo": "1.02.04.01.05",
+          "descricao": "Mais Valia",
+          "valores": [
+            44218,
+            50820
+          ]
+        }
+      ]
+    },
+    "individuais/balanco_passivo": {
+      "colunas": [
+        "atual",
+        "exercicio_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "2",
+          "descricao": "Passivo Total",
+          "valores": [
+            16486989,
+            16009725
+          ]
+        },
+        {
+          "codigo": "2.01",
+          "descricao": "Passivo Circulante",
+          "valores": [
+            1498033,
+            1235308
+          ]
+        },
+        {
+          "codigo": "2.01.01",
+          "descricao": "Obrigações Sociais e Trabalhistas",
+          "valores": [
+            112728,
+            146780
+          ]
+        },
+        {
+          "codigo": "2.01.01.01",
+          "descricao": "Obrigações Sociais",
+          "valores": [
+            112728,
+            146780
+          ]
+        },
+        {
+          "codigo": "2.01.01.01.01",
+          "descricao": "Obirgações Trabalhistas",
+          "valores": [
+            112728,
+            146780
+          ]
+        },
+        {
+          "codigo": "2.01.02",
+          "descricao": "Fornecedores",
+          "valores": [
+            22025,
+            41964
+          ]
+        },
+        {
+          "codigo": "2.01.02.01",
+          "descricao": "Fornecedores Nacionais",
+          "valores": [
+            22025,
+            41964
+          ]
+        },
+        {
+          "codigo": "2.01.02.01.01",
+          "descricao": "Fornecedores de Bens e Serviços",
+          "valores": [
+            22025,
+            41964
+          ]
+        },
+        {
+          "codigo": "2.01.03",
+          "descricao": "Obrigações Fiscais",
+          "valores": [
+            2057,
+            3412
+          ]
+        },
+        {
+          "codigo": "2.01.03.01",
+          "descricao": "Obrigações Fiscais Federais",
+          "valores": [
+            2057,
+            3412
+          ]
+        },
+        {
+          "codigo": "2.01.03.01.02",
+          "descricao": "Impostos e Contribuições a Recolher",
+          "valores": [
+            1626,
+            2953
+          ]
+        },
+        {
+          "codigo": "2.01.03.01.03",
+          "descricao": "Impostos e Contribuições de Recolhimento Diferido",
+          "valores": [
+            431,
+            459
+          ]
+        },
+        {
+          "codigo": "2.01.04",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            1001993,
+            708802
+          ]
+        },
+        {
+          "codigo": "2.01.04.01",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            15896,
+            16096
+          ]
+        },
+        {
+          "codigo": "2.01.04.01.01",
+          "descricao": "Em Moeda Nacional",
+          "valores": [
+            15896,
+            16096
+          ]
+        },
+        {
+          "codigo": "2.01.04.02",
+          "descricao": "Debêntures",
+          "valores": [
+            986097,
+            692706
+          ]
+        },
+        {
+          "codigo": "2.01.04.02.03",
+          "descricao": "Certificados de recebíveis imobiliários -CRI",
+          "valores": [
+            986097,
+            691515
+          ]
+        },
+        {
+          "codigo": "2.01.04.02.04",
+          "descricao": "Instrumentos Financeiros e Derivativos",
+          "valores": [
+            0,
+            1191
+          ]
+        },
+        {
+          "codigo": "2.01.05",
+          "descricao": "Outras Obrigações",
+          "valores": [
+            356632,
+            332046
+          ]
+        },
+        {
+          "codigo": "2.01.05.01",
+          "descricao": "Passivos com Partes Relacionadas",
+          "valores": [
+            238585,
+            259502
+          ]
+        },
+        {
+          "codigo": "2.01.05.01.02",
+          "descricao": "Débitos com Controladas",
+          "valores": [
+            238585,
+            259502
+          ]
+        },
+        {
+          "codigo": "2.01.05.02",
+          "descricao": "Outros",
+          "valores": [
+            118047,
+            72544
+          ]
+        },
+        {
+          "codigo": "2.01.05.02.07",
+          "descricao": "Demais Passivos",
+          "valores": [
+            118047,
+            72544
+          ]
+        },
+        {
+          "codigo": "2.01.06",
+          "descricao": "Provisões",
+          "valores": [
+            2598,
+            2304
+          ]
+        },
+        {
+          "codigo": "2.01.06.01",
+          "descricao": "Provisões Fiscais Previdenciárias Trabalhistas e Cíveis",
+          "valores": [
+            2598,
+            2304
+          ]
+        },
+        {
+          "codigo": "2.01.06.01.02",
+          "descricao": "Provisões Previdenciárias e Trabalhistas",
+          "valores": [
+            1138,
+            1276
+          ]
+        },
+        {
+          "codigo": "2.01.06.01.04",
+          "descricao": "Provisões Cíveis",
+          "valores": [
+            827,
+            604
+          ]
+        },
+        {
+          "codigo": "2.01.06.01.05",
+          "descricao": "Provisões Tributárias",
+          "valores": [
+            633,
+            424
+          ]
+        },
+        {
+          "codigo": "2.02",
+          "descricao": "Passivo Não Circulante",
+          "valores": [
+            3820920,
+            4547107
+          ]
+        },
+        {
+          "codigo": "2.02.01",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            3644513,
+            4373130
+          ]
+        },
+        {
+          "codigo": "2.02.01.01",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            209730,
+            200116
+          ]
+        },
+        {
+          "codigo": "2.02.01.01.01",
+          "descricao": "Em Moeda Nacional",
+          "valores": [
+            209730,
+            200116
+          ]
+        },
+        {
+          "codigo": "2.02.01.02",
+          "descricao": "Debêntures",
+          "valores": [
+            3434783,
+            4173014
+          ]
+        },
+        {
+          "codigo": "2.02.01.02.02",
+          "descricao": "Certificados de Recebíveis Imobiliários - CRI",
+          "valores": [
+            3434783,
+            4173014
+          ]
+        },
+        {
+          "codigo": "2.02.03",
+          "descricao": "Tributos Diferidos",
+          "valores": [
+            174524,
+            172402
+          ]
+        },
+        {
+          "codigo": "2.02.03.01",
+          "descricao": "Imposto de Renda e Contribuição Social Diferidos",
+          "valores": [
+            174524,
+            172402
+          ]
+        },
+        {
+          "codigo": "2.02.03.01.01",
+          "descricao": "Impostos e Contribuições de Recolhimento Diferido",
+          "valores": [
+            174524,
+            172402
+          ]
+        },
+        {
+          "codigo": "2.02.04",
+          "descricao": "Provisões",
+          "valores": [
+            1883,
+            1575
+          ]
+        },
+        {
+          "codigo": "2.02.04.01",
+          "descricao": "Provisões Fiscais Previdenciárias Trabalhistas e Cíveis",
+          "valores": [
+            1883,
+            1575
+          ]
+        },
+        {
+          "codigo": "2.02.04.01.02",
+          "descricao": "Provisões Previdenciárias e Trabalhistas",
+          "valores": [
+            560,
+            627
+          ]
+        },
+        {
+          "codigo": "2.02.04.01.04",
+          "descricao": "Provisões Cíveis",
+          "valores": [
+            1011,
+            738
+          ]
+        },
+        {
+          "codigo": "2.02.04.01.05",
+          "descricao": "Provisões tributárias",
+          "valores": [
+            312,
+            210
+          ]
+        },
+        {
+          "codigo": "2.03",
+          "descricao": "Patrimônio Líquido",
+          "valores": [
+            11168036,
+            10227310
+          ]
+        },
+        {
+          "codigo": "2.03.01",
+          "descricao": "Capital Social Realizado",
+          "valores": [
+            6184224,
+            6184224
+          ]
+        },
+        {
+          "codigo": "2.03.01.01",
+          "descricao": "Capital Social",
+          "valores": [
+            6184224,
+            6184224
+          ]
+        },
+        {
+          "codigo": "2.03.02",
+          "descricao": "Reservas de Capital",
+          "valores": [
+            65049,
+            46276
+          ]
+        },
+        {
+          "codigo": "2.03.02.04",
+          "descricao": "Opções Outorgadas",
+          "valores": [
+            31212,
+            31212
+          ]
+        },
+        {
+          "codigo": "2.03.02.07",
+          "descricao": "(-) Gastos na emissão de ações",
+          "valores": [
+            -34881,
+            -34881
+          ]
+        },
+        {
+          "codigo": "2.03.02.08",
+          "descricao": "Transações De Capital",
+          "valores": [
+            68718,
+            49945
+          ]
+        },
+        {
+          "codigo": "2.03.04",
+          "descricao": "Reservas de Lucros",
+          "valores": [
+            3292499,
+            3292499
+          ]
+        },
+        {
+          "codigo": "2.03.04.01",
+          "descricao": "Reserva Legal",
+          "valores": [
+            715964,
+            715964
+          ]
+        },
+        {
+          "codigo": "2.03.04.05",
+          "descricao": "Reserva de Retenção de Lucros",
+          "valores": [
+            2845440,
+            2845440
+          ]
+        },
+        {
+          "codigo": "2.03.04.09",
+          "descricao": "Ações em Tesouraria",
+          "valores": [
+            -268905,
+            -268905
+          ]
+        },
+        {
+          "codigo": "2.03.05",
+          "descricao": "Lucros/Prejuízos Acumulados",
+          "valores": [
+            748352,
+            0
+          ]
+        },
+        {
+          "codigo": "2.03.08",
+          "descricao": "Outros Resultados Abrangentes",
+          "valores": [
+            877912,
+            704311
+          ]
+        }
+      ]
+    },
+    "individuais/dre": {
+      "colunas": [
+        "trimestre_atual",
+        "acumulado_atual",
+        "trimestre_anterior",
+        "acumulado_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "3.01",
+          "descricao": "Receita de Venda de Bens e/ou Serviços",
+          "valores": [
+            3761,
+            6224,
+            855,
+            2906
+          ]
+        },
+        {
+          "codigo": "3.02",
+          "descricao": "Custo dos Bens e/ou Serviços Vendidos",
+          "valores": [
+            793,
+            1351,
+            1427,
+            1840
+          ]
+        },
+        {
+          "codigo": "3.03",
+          "descricao": "Resultado Bruto",
+          "valores": [
+            4554,
+            7575,
+            2282,
+            4746
+          ]
+        },
+        {
+          "codigo": "3.04",
+          "descricao": "Despesas/Receitas Operacionais",
+          "valores": [
+            425600,
+            696953,
+            350081,
+            647917
+          ]
+        },
+        {
+          "codigo": "3.04.01",
+          "descricao": "Despesas com Vendas",
+          "valores": [
+            -8202,
+            -26277,
+            -4514,
+            -22143
+          ]
+        },
+        {
+          "codigo": "3.04.02",
+          "descricao": "Despesas Gerais e Administrativas",
+          "valores": [
+            -57500,
+            -75930,
+            -63490,
+            -83980
+          ]
+        },
+        {
+          "codigo": "3.04.02.01",
+          "descricao": "Despesas da Administração",
+          "valores": [
+            -55001,
+            -71165,
+            -61338,
+            -79689
+          ]
+        },
+        {
+          "codigo": "3.04.02.02",
+          "descricao": "Honorarios da Administração",
+          "valores": [
+            -2499,
+            -4765,
+            -2152,
+            -4291
+          ]
+        },
+        {
+          "codigo": "3.04.04",
+          "descricao": "Outras Receitas Operacionais",
+          "valores": [
+            12784,
+            19091,
+            25050,
+            26522
+          ]
+        },
+        {
+          "codigo": "3.04.04.01",
+          "descricao": "Outros Ganhos em Investimento",
+          "valores": [
+            12041,
+            17982,
+            21325,
+            22770
+          ]
+        },
+        {
+          "codigo": "3.04.04.02",
+          "descricao": "Outras Receitas",
+          "valores": [
+            743,
+            1109,
+            3725,
+            3752
+          ]
+        },
+        {
+          "codigo": "3.04.05",
+          "descricao": "Outras Despesas Operacionais",
+          "valores": [
+            -19168,
+            -42612,
+            -13933,
+            -25841
+          ]
+        },
+        {
+          "codigo": "3.04.05.01",
+          "descricao": "Outras Perdas em Investimentos",
+          "valores": [
+            -4671,
+            -19030,
+            -6782,
+            -9604
+          ]
+        },
+        {
+          "codigo": "3.04.05.02",
+          "descricao": "Outras Despesas",
+          "valores": [
+            -14497,
+            -23582,
+            -7151,
+            -16237
+          ]
+        },
+        {
+          "codigo": "3.04.06",
+          "descricao": "Resultado de Equivalência Patrimonial",
+          "valores": [
+            497686,
+            822681,
+            406968,
+            753359
+          ]
+        },
+        {
+          "codigo": "3.05",
+          "descricao": "Resultado Antes do Resultado Financeiro e dos Tributos",
+          "valores": [
+            430154,
+            704528,
+            352363,
+            652663
+          ]
+        },
+        {
+          "codigo": "3.06",
+          "descricao": "Resultado Financeiro",
+          "valores": [
+            23746,
+            45947,
+            33947,
+            61284
+          ]
+        },
+        {
+          "codigo": "3.06.01",
+          "descricao": "Receitas Financeiras",
+          "valores": [
+            236784,
+            433067,
+            177959,
+            318961
+          ]
+        },
+        {
+          "codigo": "3.06.01.01",
+          "descricao": "Receitas Financeiras",
+          "valores": [
+            236784,
+            433067,
+            177959,
+            318961
+          ]
+        },
+        {
+          "codigo": "3.06.02",
+          "descricao": "Despesas Financeiras",
+          "valores": [
+            -213038,
+            -387120,
+            -144012,
+            -257677
+          ]
+        },
+        {
+          "codigo": "3.06.02.01",
+          "descricao": "Despesas Financeiras",
+          "valores": [
+            -213038,
+            -387120,
+            -144012,
+            -257677
+          ]
+        },
+        {
+          "codigo": "3.07",
+          "descricao": "Resultado Antes dos Tributos sobre o Lucro",
+          "valores": [
+            453900,
+            750475,
+            386310,
+            713947
+          ]
+        },
+        {
+          "codigo": "3.08",
+          "descricao": "Imposto de Renda e Contribuição Social sobre o Lucro",
+          "valores": [
+            -2324,
+            -2123,
+            1497,
+            1492
+          ]
+        },
+        {
+          "codigo": "3.08.02",
+          "descricao": "Diferido",
+          "valores": [
+            -2324,
+            -2123,
+            1497,
+            1492
+          ]
+        },
+        {
+          "codigo": "3.09",
+          "descricao": "Resultado Líquido das Operações Continuadas",
+          "valores": [
+            451576,
+            748352,
+            387807,
+            715439
+          ]
+        },
+        {
+          "codigo": "3.11",
+          "descricao": "Lucro/Prejuízo do Período",
+          "valores": [
+            451576,
+            748352,
+            387807,
+            715439
+          ]
+        },
+        {
+          "codigo": "3.99.01.01",
+          "descricao": "ON",
+          "valores": [
+            1.0363,
+            1.71736,
+            0.88996,
+            1.64183
+          ]
+        },
+        {
+          "codigo": "3.99.02.01",
+          "descricao": "ON",
+          "valores": [
+            1.0363,
+            1.71736,
+            0.88996,
+            1.64183
+          ]
+        }
+      ]
+    },
+    "individuais/fluxo_caixa": {
+      "colunas": [
+        "acumulado_atual",
+        "acumulado_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "6.01",
+          "descricao": "Caixa Líquido Atividades Operacionais",
+          "valores": [
+            -672551,
+            -440914
+          ]
+        },
+        {
+          "codigo": "6.01.01",
+          "descricao": "Caixa Gerado nas Operações",
+          "valores": [
+            -76535,
+            -97517
+          ]
+        },
+        {
+          "codigo": "6.01.01.01",
+          "descricao": "Depreciação de Bens do Ativo Imobilizado e Intangível",
+          "valores": [
+            5130,
+            4405
+          ]
+        },
+        {
+          "codigo": "6.01.01.02",
+          "descricao": "Amortização de Mais Valia de Ativo",
+          "valores": [
+            13135,
+            2868
+          ]
+        },
+        {
+          "codigo": "6.01.01.03",
+          "descricao": "Equivalência Patrimonial",
+          "valores": [
+            -822681,
+            -753359
+          ]
+        },
+        {
+          "codigo": "6.01.01.05",
+          "descricao": "Juros, Variações monetárias sobre emprestímos",
+          "valores": [
+            345047,
+            216131
+          ]
+        },
+        {
+          "codigo": "6.01.01.06",
+          "descricao": "Impostos Diferidos",
+          "valores": [
+            -29,
+            4
+          ]
+        },
+        {
+          "codigo": "6.01.01.10",
+          "descricao": "Lucro Líquido do Periodo Antes do IR e CS",
+          "valores": [
+            750475,
+            713947
+          ]
+        },
+        {
+          "codigo": "6.01.01.13",
+          "descricao": "Resultado Operacional Swap",
+          "valores": [
+            7064,
+            -841
+          ]
+        },
+        {
+          "codigo": "6.01.01.14",
+          "descricao": "Provisões para risco de crédito",
+          "valores": [
+            116,
+            79
+          ]
+        },
+        {
+          "codigo": "6.01.01.16",
+          "descricao": "Rendimentos de titulos e valores mobiliarios",
+          "valores": [
+            -378848,
+            -285960
+          ]
+        },
+        {
+          "codigo": "6.01.01.18",
+          "descricao": "Provisões Para Riscos Tributários, Trabalhistas e Cíveis",
+          "valores": [
+            4056,
+            5209
+          ]
+        },
+        {
+          "codigo": "6.01.02",
+          "descricao": "Variações nos Ativos e Passivos",
+          "valores": [
+            -318696,
+            -173285
+          ]
+        },
+        {
+          "codigo": "6.01.02.02",
+          "descricao": "Diminuição (Aumento) em Contas a Receber",
+          "valores": [
+            -282,
+            -160
+          ]
+        },
+        {
+          "codigo": "6.01.02.03",
+          "descricao": "Diminuição (Aumento) Imoveís Comercializar",
+          "valores": [
+            -14369,
+            -6423
+          ]
+        },
+        {
+          "codigo": "6.01.02.04",
+          "descricao": "Diminuição (Aumento) em Conta Corrente com Parceiros no Empreendimentos",
+          "valores": [
+            33,
+            -152
+          ]
+        },
+        {
+          "codigo": "6.01.02.05",
+          "descricao": "Diminuição (Aumento) em Partes Relacionadas",
+          "valores": [
+            -273079,
+            -77219
+          ]
+        },
+        {
+          "codigo": "6.01.02.06",
+          "descricao": "Redução (aumento) Impostos e Contribuições a Compensar",
+          "valores": [
+            -23497,
+            -9231
+          ]
+        },
+        {
+          "codigo": "6.01.02.08",
+          "descricao": "Redução (aumento) Despesas Antecipadas",
+          "valores": [
+            6417,
+            -31606
+          ]
+        },
+        {
+          "codigo": "6.01.02.09",
+          "descricao": "Redução (aumento) Demais Ativos",
+          "valores": [
+            -4104,
+            43653
+          ]
+        },
+        {
+          "codigo": "6.01.02.10",
+          "descricao": "Redução (aumento) Contas a Pagar de Imoveis",
+          "valores": [
+            0,
+            -19
+          ]
+        },
+        {
+          "codigo": "6.01.02.12",
+          "descricao": "Redução (aumento) Impostos e Contribuições a Recolher",
+          "valores": [
+            -1327,
+            772
+          ]
+        },
+        {
+          "codigo": "6.01.02.13",
+          "descricao": "Redução (aumento) Fornecedores de Bens e Serviços",
+          "valores": [
+            -19939,
+            -83872
+          ]
+        },
+        {
+          "codigo": "6.01.02.14",
+          "descricao": "Salários",
+          "valores": [
+            -34052,
+            -18508
+          ]
+        },
+        {
+          "codigo": "6.01.02.16",
+          "descricao": "Redução (aumento) Demais Passivos",
+          "valores": [
+            45503,
+            9480
+          ]
+        },
+        {
+          "codigo": "6.01.03",
+          "descricao": "Outros",
+          "valores": [
+            -277320,
+            -170112
+          ]
+        },
+        {
+          "codigo": "6.01.03.02",
+          "descricao": "Juros Pagos",
+          "valores": [
+            -273866,
+            -164642
+          ]
+        },
+        {
+          "codigo": "6.01.03.03",
+          "descricao": "Indenizações pagas",
+          "valores": [
+            -3454,
+            -5470
+          ]
+        },
+        {
+          "codigo": "6.02",
+          "descricao": "Caixa Líquido Atividades de Investimento",
+          "valores": [
+            808420,
+            -701073
+          ]
+        },
+        {
+          "codigo": "6.02.01",
+          "descricao": "Aquisição de Bens do Ativo Imobilizado",
+          "valores": [
+            -4056,
+            -2305
+          ]
+        },
+        {
+          "codigo": "6.02.03",
+          "descricao": "Recebimento de Dividendos",
+          "valores": [
+            1013424,
+            1126966
+          ]
+        },
+        {
+          "codigo": "6.02.04",
+          "descricao": "(Aumento) redução de Investimento",
+          "valores": [
+            -763160,
+            -798923
+          ]
+        },
+        {
+          "codigo": "6.02.05",
+          "descricao": "Aquisição de Bens do Ativo Intangível",
+          "valores": [
+            -12751,
+            -1158
+          ]
+        },
+        {
+          "codigo": "6.02.06",
+          "descricao": "Diminuição (Aumento) em Aplicações Financeiras",
+          "valores": [
+            596438,
+            -1035377
+          ]
+        },
+        {
+          "codigo": "6.02.07",
+          "descricao": "Instrumentos financeiros e derivativos",
+          "valores": [
+            -21475,
+            9724
+          ]
+        },
+        {
+          "codigo": "6.03",
+          "descricao": "Caixa Líquido Atividades de Financiamento",
+          "valores": [
+            -505416,
+            792285
+          ]
+        },
+        {
+          "codigo": "6.03.01",
+          "descricao": "Ingresso Novos Emprestimos, Financiamentos e CRI",
+          "valores": [
+            9613,
+            1055000
+          ]
+        },
+        {
+          "codigo": "6.03.02",
+          "descricao": "Pagamento de empréstimos, financiamentos e CRI",
+          "valores": [
+            -515029,
+            -259119
+          ]
+        },
+        {
+          "codigo": "6.03.11",
+          "descricao": "Ações em tesouraria",
+          "valores": [
+            0,
+            -3596
+          ]
+        },
+        {
+          "codigo": "6.05",
+          "descricao": "Aumento (Redução) de Caixa e Equivalentes",
+          "valores": [
+            -369547,
+            -349702
+          ]
+        },
+        {
+          "codigo": "6.05.01",
+          "descricao": "Saldo Inicial de Caixa e Equivalentes",
+          "valores": [
+            383757,
+            361718
+          ]
+        },
+        {
+          "codigo": "6.05.02",
+          "descricao": "Saldo Final de Caixa e Equivalentes",
+          "valores": [
+            14210,
+            12016
+          ]
+        }
+      ]
+    },
+    "individuais/dva": {
+      "colunas": [
+        "acumulado_atual",
+        "acumulado_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "7.01",
+          "descricao": "Receitas",
+          "valores": [
+            8461,
+            7598
+          ]
+        },
+        {
+          "codigo": "7.01.01",
+          "descricao": "Vendas de Mercadorias, Produtos e Serviços",
+          "valores": [
+            7468,
+            3925
+          ]
+        },
+        {
+          "codigo": "7.01.02",
+          "descricao": "Outras Receitas",
+          "valores": [
+            1109,
+            3752
+          ]
+        },
+        {
+          "codigo": "7.01.04",
+          "descricao": "Provisão/Reversão de Créds. Liquidação Duvidosa",
+          "valores": [
+            -116,
+            -79
+          ]
+        },
+        {
+          "codigo": "7.02",
+          "descricao": "Insumos Adquiridos de Terceiros",
+          "valores": [
+            -97016,
+            -82468
+          ]
+        },
+        {
+          "codigo": "7.02.01",
+          "descricao": "Custos Prods., Mercs. e Servs. Vendidos",
+          "valores": [
+            1352,
+            1840
+          ]
+        },
+        {
+          "codigo": "7.02.02",
+          "descricao": "Materiais, Energia, Servs. de Terceiros e Outros",
+          "valores": [
+            -74786,
+            -68071
+          ]
+        },
+        {
+          "codigo": "7.02.04",
+          "descricao": "Outros",
+          "valores": [
+            -23582,
+            -16237
+          ]
+        },
+        {
+          "codigo": "7.03",
+          "descricao": "Valor Adicionado Bruto",
+          "valores": [
+            -88555,
+            -74870
+          ]
+        },
+        {
+          "codigo": "7.04",
+          "descricao": "Retenções",
+          "valores": [
+            -18076,
+            -7273
+          ]
+        },
+        {
+          "codigo": "7.04.01",
+          "descricao": "Depreciação, Amortização e Exaustão",
+          "valores": [
+            -5130,
+            -4405
+          ]
+        },
+        {
+          "codigo": "7.04.02",
+          "descricao": "Outras",
+          "valores": [
+            -12946,
+            -2868
+          ]
+        },
+        {
+          "codigo": "7.05",
+          "descricao": "Valor Adicionado Líquido Produzido",
+          "valores": [
+            -106631,
+            -82143
+          ]
+        },
+        {
+          "codigo": "7.06",
+          "descricao": "Vlr Adicionado Recebido em Transferência",
+          "valores": [
+            1267646,
+            1088354
+          ]
+        },
+        {
+          "codigo": "7.06.01",
+          "descricao": "Resultado de Equivalência Patrimonial",
+          "valores": [
+            822681,
+            753359
+          ]
+        },
+        {
+          "codigo": "7.06.02",
+          "descricao": "Receitas Financeiras",
+          "valores": [
+            433067,
+            318961
+          ]
+        },
+        {
+          "codigo": "7.06.03",
+          "descricao": "Outros",
+          "valores": [
+            11898,
+            16034
+          ]
+        },
+        {
+          "codigo": "7.07",
+          "descricao": "Valor Adicionado Total a Distribuir",
+          "valores": [
+            1161015,
+            1006211
+          ]
+        },
+        {
+          "codigo": "7.08",
+          "descricao": "Distribuição do Valor Adicionado",
+          "valores": [
+            1161015,
+            1006211
+          ]
+        },
+        {
+          "codigo": "7.08.01",
+          "descricao": "Pessoal",
+          "valores": [
+            16915,
+            27729
+          ]
+        },
+        {
+          "codigo": "7.08.01.01",
+          "descricao": "Remuneração Direta",
+          "valores": [
+            23446,
+            22240
+          ]
+        },
+        {
+          "codigo": "7.08.01.02",
+          "descricao": "Benefícios",
+          "valores": [
+            4056,
+            6878
+          ]
+        },
+        {
+          "codigo": "7.08.01.03",
+          "descricao": "F.G.T.S.",
+          "valores": [
+            1905,
+            2011
+          ]
+        },
+        {
+          "codigo": "7.08.01.04",
+          "descricao": "Outros",
+          "valores": [
+            -12492,
+            -3400
+          ]
+        },
+        {
+          "codigo": "7.08.01.04.02",
+          "descricao": "Honorarios de Diretoria",
+          "valores": [
+            4765,
+            4291
+          ]
+        },
+        {
+          "codigo": "7.08.01.04.03",
+          "descricao": "Participação de Empregados nos Lucros",
+          "valores": [
+            -17257,
+            -7691
+          ]
+        },
+        {
+          "codigo": "7.08.02",
+          "descricao": "Impostos, Taxas e Contribuições",
+          "valores": [
+            8628,
+            5366
+          ]
+        },
+        {
+          "codigo": "7.08.02.01",
+          "descricao": "Federais",
+          "valores": [
+            8266,
+            5178
+          ]
+        },
+        {
+          "codigo": "7.08.02.03",
+          "descricao": "Municipais",
+          "valores": [
+            362,
+            188
+          ]
+        },
+        {
+          "codigo": "7.08.03",
+          "descricao": "Remuneração de Capitais de Terceiros",
+          "valores": [
+            387120,
+            257677
+          ]
+        },
+        {
+          "codigo": "7.08.03.01",
+          "descricao": "Juros",
+          "valores": [
+            387120,
+            257677
+          ]
+        },
+        {
+          "codigo": "7.08.04",
+          "descricao": "Remuneração de Capitais Próprios",
+          "valores": [
+            748352,
+            715439
+          ]
+        },
+        {
+          "codigo": "7.08.04.03",
+          "descricao": "Lucros Retidos / Prejuízo do Período",
+          "valores": [
+            748352,
+            715439
+          ]
+        }
+      ]
+    },
+    "consolidadas/balanco_ativo": {
+      "colunas": [
+        "atual",
+        "exercicio_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "1",
+          "descricao": "Ativo Total",
+          "valores": [
+            27740895,
+            26109817
+          ]
+        },
+        {
+          "codigo": "1.01",
+          "descricao": "Ativo Circulante",
+          "valores": [
+            15927399,
+            14870105
+          ]
+        },
+        {
+          "codigo": "1.01.01",
+          "descricao": "Caixa e Equivalentes de Caixa",
+          "valores": [
+            230669,
+            726554
+          ]
+        },
+        {
+          "codigo": "1.01.01.01",
+          "descricao": "Caixa e Equivalentes de Caixa",
+          "valores": [
+            230669,
+            726554
+          ]
+        },
+        {
+          "codigo": "1.01.02",
+          "descricao": "Aplicações Financeiras",
+          "valores": [
+            3844939,
+            3255010
+          ]
+        },
+        {
+          "codigo": "1.01.02.01",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através do Resultado",
+          "valores": [
+            2311166,
+            2035864
+          ]
+        },
+        {
+          "codigo": "1.01.02.01.03",
+          "descricao": "Titulos e Valores Mobiliários",
+          "valores": [
+            2311166,
+            2035864
+          ]
+        },
+        {
+          "codigo": "1.01.02.02",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes",
+          "valores": [
+            1401876,
+            1150991
+          ]
+        },
+        {
+          "codigo": "1.01.02.03",
+          "descricao": "Aplicações Financeiras Avaliadas ao Custo Amortizado",
+          "valores": [
+            131897,
+            68155
+          ]
+        },
+        {
+          "codigo": "1.01.03",
+          "descricao": "Contas a Receber",
+          "valores": [
+            5156483,
+            4577860
+          ]
+        },
+        {
+          "codigo": "1.01.03.01",
+          "descricao": "Clientes",
+          "valores": [
+            5156483,
+            4577860
+          ]
+        },
+        {
+          "codigo": "1.01.04",
+          "descricao": "Estoques",
+          "valores": [
+            6054358,
+            5774781
+          ]
+        },
+        {
+          "codigo": "1.01.04.01",
+          "descricao": "Imóveis a Comercializar",
+          "valores": [
+            6054358,
+            5774781
+          ]
+        },
+        {
+          "codigo": "1.01.06",
+          "descricao": "Tributos a Recuperar",
+          "valores": [
+            61021,
+            10041
+          ]
+        },
+        {
+          "codigo": "1.01.06.01",
+          "descricao": "Tributos Correntes a Recuperar",
+          "valores": [
+            61021,
+            10041
+          ]
+        },
+        {
+          "codigo": "1.01.06.01.01",
+          "descricao": "Impostos e Contribuições a Compensar",
+          "valores": [
+            61021,
+            10041
+          ]
+        },
+        {
+          "codigo": "1.01.07",
+          "descricao": "Despesas Antecipadas",
+          "valores": [
+            41053,
+            50076
+          ]
+        },
+        {
+          "codigo": "1.01.07.01",
+          "descricao": "Despesas Antecipadas",
+          "valores": [
+            41053,
+            50076
+          ]
+        },
+        {
+          "codigo": "1.01.08",
+          "descricao": "Outros Ativos Circulantes",
+          "valores": [
+            538876,
+            475783
+          ]
+        },
+        {
+          "codigo": "1.01.08.03",
+          "descricao": "Outros",
+          "valores": [
+            538876,
+            475783
+          ]
+        },
+        {
+          "codigo": "1.01.08.03.01",
+          "descricao": "Impostos e Contribuições de Recolhimento Diferido",
+          "valores": [
+            2768,
+            1827
+          ]
+        },
+        {
+          "codigo": "1.01.08.03.02",
+          "descricao": "Despesas com Venda a Apropriar",
+          "valores": [
+            107324,
+            102731
+          ]
+        },
+        {
+          "codigo": "1.01.08.03.03",
+          "descricao": "Demais Contas",
+          "valores": [
+            379377,
+            335038
+          ]
+        },
+        {
+          "codigo": "1.01.08.03.04",
+          "descricao": "Instrumentos Financeiros e Derivativos",
+          "valores": [
+            49407,
+            36187
+          ]
+        },
+        {
+          "codigo": "1.02",
+          "descricao": "Ativo Não Circulante",
+          "valores": [
+            11813496,
+            11239712
+          ]
+        },
+        {
+          "codigo": "1.02.01",
+          "descricao": "Ativo Realizável a Longo Prazo",
+          "valores": [
+            7840459,
+            7334618
+          ]
+        },
+        {
+          "codigo": "1.02.01.01",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através do Resultado",
+          "valores": [
+            35195,
+            25322
+          ]
+        },
+        {
+          "codigo": "1.02.01.01.01",
+          "descricao": "Títulos Designados a Valor Justo",
+          "valores": [
+            35195,
+            25322
+          ]
+        },
+        {
+          "codigo": "1.02.01.02",
+          "descricao": "Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes",
+          "valores": [
+            3494214,
+            2887874
+          ]
+        },
+        {
+          "codigo": "1.02.01.03",
+          "descricao": "Aplicações Financeiras Avaliadas ao Custo Amortizado",
+          "valores": [
+            107276,
+            112644
+          ]
+        },
+        {
+          "codigo": "1.02.01.04",
+          "descricao": "Contas a Receber",
+          "valores": [
+            1367984,
+            1536510
+          ]
+        },
+        {
+          "codigo": "1.02.01.04.01",
+          "descricao": "Clientes",
+          "valores": [
+            1367984,
+            1536510
+          ]
+        },
+        {
+          "codigo": "1.02.01.05",
+          "descricao": "Estoques",
+          "valores": [
+            2038018,
+            2055407
+          ]
+        },
+        {
+          "codigo": "1.02.01.05.01",
+          "descricao": "Imóveis a Comercializar",
+          "valores": [
+            2038018,
+            2055407
+          ]
+        },
+        {
+          "codigo": "1.02.01.07",
+          "descricao": "Tributos Diferidos",
+          "valores": [
+            1279,
+            791
+          ]
+        },
+        {
+          "codigo": "1.02.01.07.01",
+          "descricao": "Imposto de Renda e Contribuição Social Diferidos",
+          "valores": [
+            1279,
+            791
+          ]
+        },
+        {
+          "codigo": "1.02.01.09",
+          "descricao": "Créditos com Partes Relacionadas",
+          "valores": [
+            259018,
+            186280
+          ]
+        },
+        {
+          "codigo": "1.02.01.09.01",
+          "descricao": "Créditos com Coligadas",
+          "valores": [
+            259018,
+            186280
+          ]
+        },
+        {
+          "codigo": "1.02.01.10",
+          "descricao": "Outros Ativos Não Circulantes",
+          "valores": [
+            537475,
+            529790
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.03",
+          "descricao": "Impostos a Compensar",
+          "valores": [
+            215902,
+            231890
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.04",
+          "descricao": "Contas Cor. Parceiros nos Empreendimentos",
+          "valores": [
+            10868,
+            10815
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.05",
+          "descricao": "Demais Contas",
+          "valores": [
+            199901,
+            192539
+          ]
+        },
+        {
+          "codigo": "1.02.01.10.06",
+          "descricao": "Despesas com vendas a apropriar",
+          "valores": [
+            110804,
+            94546
+          ]
+        },
+        {
+          "codigo": "1.02.02",
+          "descricao": "Investimentos",
+          "valores": [
+            3289627,
+            3156760
+          ]
+        },
+        {
+          "codigo": "1.02.02.01",
+          "descricao": "Participações Societárias",
+          "valores": [
+            3289627,
+            3156760
+          ]
+        },
+        {
+          "codigo": "1.02.02.01.01",
+          "descricao": "Participações em Coligadas",
+          "valores": [
+            3289627,
+            3156760
+          ]
+        },
+        {
+          "codigo": "1.02.03",
+          "descricao": "Imobilizado",
+          "valores": [
+            657716,
+            639756
+          ]
+        },
+        {
+          "codigo": "1.02.03.01",
+          "descricao": "Imobilizado em Operação",
+          "valores": [
+            657716,
+            639756
+          ]
+        },
+        {
+          "codigo": "1.02.04",
+          "descricao": "Intangível",
+          "valores": [
+            25694,
+            108578
+          ]
+        },
+        {
+          "codigo": "1.02.04.01",
+          "descricao": "Intangíveis",
+          "valores": [
+            25694,
+            108578
+          ]
+        },
+        {
+          "codigo": "1.02.04.01.03",
+          "descricao": "Gastos com Implantações",
+          "valores": [
+            1197,
+            1283
+          ]
+        },
+        {
+          "codigo": "1.02.04.01.04",
+          "descricao": "Software",
+          "valores": [
+            12314,
+            5634
+          ]
+        },
+        {
+          "codigo": "1.02.04.01.05",
+          "descricao": "Mais Valia",
+          "valores": [
+            12183,
+            101661
+          ]
+        }
+      ]
+    },
+    "consolidadas/balanco_passivo": {
+      "colunas": [
+        "atual",
+        "exercicio_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "2",
+          "descricao": "Passivo Total",
+          "valores": [
+            27740895,
+            26109817
+          ]
+        },
+        {
+          "codigo": "2.01",
+          "descricao": "Passivo Circulante",
+          "valores": [
+            4729063,
+            3869226
+          ]
+        },
+        {
+          "codigo": "2.01.01",
+          "descricao": "Obrigações Sociais e Trabalhistas",
+          "valores": [
+            242902,
+            249310
+          ]
+        },
+        {
+          "codigo": "2.01.01.01",
+          "descricao": "Obrigações Sociais",
+          "valores": [
+            242902,
+            249310
+          ]
+        },
+        {
+          "codigo": "2.01.01.01.01",
+          "descricao": "Obrigações Trabalhistas",
+          "valores": [
+            242902,
+            249310
+          ]
+        },
+        {
+          "codigo": "2.01.02",
+          "descricao": "Fornecedores",
+          "valores": [
+            308887,
+            275581
+          ]
+        },
+        {
+          "codigo": "2.01.02.01",
+          "descricao": "Fornecedores Nacionais",
+          "valores": [
+            308887,
+            275581
+          ]
+        },
+        {
+          "codigo": "2.01.02.01.01",
+          "descricao": "Fornecedores de Bens e Serviços",
+          "valores": [
+            308887,
+            275581
+          ]
+        },
+        {
+          "codigo": "2.01.03",
+          "descricao": "Obrigações Fiscais",
+          "valores": [
+            180896,
+            205604
+          ]
+        },
+        {
+          "codigo": "2.01.03.01",
+          "descricao": "Obrigações Fiscais Federais",
+          "valores": [
+            180896,
+            205604
+          ]
+        },
+        {
+          "codigo": "2.01.03.01.02",
+          "descricao": "Impostos e Contribuições a Recolher",
+          "valores": [
+            69272,
+            106789
+          ]
+        },
+        {
+          "codigo": "2.01.03.01.03",
+          "descricao": "Impostos e Contribuições de Recolhimento Diferido",
+          "valores": [
+            111624,
+            98815
+          ]
+        },
+        {
+          "codigo": "2.01.04",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            1750007,
+            1502490
+          ]
+        },
+        {
+          "codigo": "2.01.04.01",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            643703,
+            753601
+          ]
+        },
+        {
+          "codigo": "2.01.04.01.01",
+          "descricao": "Em Moeda Nacional",
+          "valores": [
+            643703,
+            753601
+          ]
+        },
+        {
+          "codigo": "2.01.04.02",
+          "descricao": "Debêntures",
+          "valores": [
+            1106304,
+            748889
+          ]
+        },
+        {
+          "codigo": "2.01.04.02.03",
+          "descricao": "Certificados de Recebiveis Imobiliarios - CRI",
+          "valores": [
+            1106304,
+            747698
+          ]
+        },
+        {
+          "codigo": "2.01.04.02.04",
+          "descricao": "Instrumentos Financeiros e Derivativos",
+          "valores": [
+            0,
+            1191
+          ]
+        },
+        {
+          "codigo": "2.01.05",
+          "descricao": "Outras Obrigações",
+          "valores": [
+            2085513,
+            1473980
+          ]
+        },
+        {
+          "codigo": "2.01.05.01",
+          "descricao": "Passivos com Partes Relacionadas",
+          "valores": [
+            181250,
+            128500
+          ]
+        },
+        {
+          "codigo": "2.01.05.01.03",
+          "descricao": "Débitos com Controladores",
+          "valores": [
+            181250,
+            128500
+          ]
+        },
+        {
+          "codigo": "2.01.05.02",
+          "descricao": "Outros",
+          "valores": [
+            1904263,
+            1345480
+          ]
+        },
+        {
+          "codigo": "2.01.05.02.04",
+          "descricao": "Contas Cor. Parceiros nos Empreendimentos",
+          "valores": [
+            12697,
+            12176
+          ]
+        },
+        {
+          "codigo": "2.01.05.02.05",
+          "descricao": "Adiantamento de Clientes",
+          "valores": [
+            296822,
+            134918
+          ]
+        },
+        {
+          "codigo": "2.01.05.02.06",
+          "descricao": "Contas a Pagar por Aquisição de Imoveis",
+          "valores": [
+            1207658,
+            948437
+          ]
+        },
+        {
+          "codigo": "2.01.05.02.07",
+          "descricao": "Demais Passivos",
+          "valores": [
+            387086,
+            249949
+          ]
+        },
+        {
+          "codigo": "2.01.06",
+          "descricao": "Provisões",
+          "valores": [
+            160858,
+            162261
+          ]
+        },
+        {
+          "codigo": "2.01.06.01",
+          "descricao": "Provisões Fiscais Previdenciárias Trabalhistas e Cíveis",
+          "valores": [
+            75435,
+            82439
+          ]
+        },
+        {
+          "codigo": "2.01.06.01.02",
+          "descricao": "Provisões Previdenciárias e Trabalhistas",
+          "valores": [
+            32962,
+            35795
+          ]
+        },
+        {
+          "codigo": "2.01.06.01.04",
+          "descricao": "Provisões Cíveis",
+          "valores": [
+            39852,
+            43616
+          ]
+        },
+        {
+          "codigo": "2.01.06.01.05",
+          "descricao": "Provisões Tributárias",
+          "valores": [
+            2621,
+            3028
+          ]
+        },
+        {
+          "codigo": "2.01.06.02",
+          "descricao": "Outras Provisões",
+          "valores": [
+            85423,
+            79822
+          ]
+        },
+        {
+          "codigo": "2.01.06.02.01",
+          "descricao": "Provisões para Garantias",
+          "valores": [
+            85423,
+            79822
+          ]
+        },
+        {
+          "codigo": "2.02",
+          "descricao": "Passivo Não Circulante",
+          "valores": [
+            10560326,
+            10773807
+          ]
+        },
+        {
+          "codigo": "2.02.01",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            7123611,
+            7214779
+          ]
+        },
+        {
+          "codigo": "2.02.01.01",
+          "descricao": "Empréstimos e Financiamentos",
+          "valores": [
+            3194827,
+            3009754
+          ]
+        },
+        {
+          "codigo": "2.02.01.01.01",
+          "descricao": "Em Moeda Nacional",
+          "valores": [
+            3194827,
+            3009754
+          ]
+        },
+        {
+          "codigo": "2.02.01.02",
+          "descricao": "Debêntures",
+          "valores": [
+            3928784,
+            4205025
+          ]
+        },
+        {
+          "codigo": "2.02.01.02.02",
+          "descricao": "Certificados de Recebiveis Imobiliarios - CRI",
+          "valores": [
+            3928784,
+            4205025
+          ]
+        },
+        {
+          "codigo": "2.02.03",
+          "descricao": "Tributos Diferidos",
+          "valores": [
+            333019,
+            329664
+          ]
+        },
+        {
+          "codigo": "2.02.03.01",
+          "descricao": "Imposto de Renda e Contribuição Social Diferidos",
+          "valores": [
+            333019,
+            329664
+          ]
+        },
+        {
+          "codigo": "2.02.04",
+          "descricao": "Provisões",
+          "valores": [
+            3103696,
+            3229364
+          ]
+        },
+        {
+          "codigo": "2.02.04.01",
+          "descricao": "Provisões Fiscais Previdenciárias Trabalhistas e Cíveis",
+          "valores": [
+            66234,
+            72431
+          ]
+        },
+        {
+          "codigo": "2.02.04.01.01",
+          "descricao": "Provisões Fiscais",
+          "valores": [
+            1291,
+            1492
+          ]
+        },
+        {
+          "codigo": "2.02.04.01.02",
+          "descricao": "Provisões Previdenciárias e Trabalhistas",
+          "valores": [
+            16235,
+            17630
+          ]
+        },
+        {
+          "codigo": "2.02.04.01.04",
+          "descricao": "Provisões Cíveis",
+          "valores": [
+            48708,
+            53309
+          ]
+        },
+        {
+          "codigo": "2.02.04.02",
+          "descricao": "Outras Provisões",
+          "valores": [
+            3037462,
+            3156933
+          ]
+        },
+        {
+          "codigo": "2.02.04.02.01",
+          "descricao": "Provisões para Garantias",
+          "valores": [
+            166818,
+            155017
+          ]
+        },
+        {
+          "codigo": "2.02.04.02.05",
+          "descricao": "Contas a Pagar por Aquisição de Imoveis",
+          "valores": [
+            1979282,
+            1995202
+          ]
+        },
+        {
+          "codigo": "2.02.04.02.06",
+          "descricao": "Fornecedores de Bens e Serviços",
+          "valores": [
+            572,
+            572
+          ]
+        },
+        {
+          "codigo": "2.02.04.02.08",
+          "descricao": "Adiantamento a Clientes",
+          "valores": [
+            890790,
+            1006142
+          ]
+        },
+        {
+          "codigo": "2.03",
+          "descricao": "Patrimônio Líquido Consolidado",
+          "valores": [
+            12451506,
+            11466784
+          ]
+        },
+        {
+          "codigo": "2.03.01",
+          "descricao": "Capital Social Realizado",
+          "valores": [
+            6184224,
+            6184224
+          ]
+        },
+        {
+          "codigo": "2.03.01.01",
+          "descricao": "Capital Social",
+          "valores": [
+            6184224,
+            6184224
+          ]
+        },
+        {
+          "codigo": "2.03.02",
+          "descricao": "Reservas de Capital",
+          "valores": [
+            65049,
+            46276
+          ]
+        },
+        {
+          "codigo": "2.03.02.04",
+          "descricao": "Opções Outorgadas",
+          "valores": [
+            31212,
+            31212
+          ]
+        },
+        {
+          "codigo": "2.03.02.07",
+          "descricao": "( - ) Gastos Com Emissão De Ações",
+          "valores": [
+            -34881,
+            -34881
+          ]
+        },
+        {
+          "codigo": "2.03.02.08",
+          "descricao": "Transações De Capital",
+          "valores": [
+            68718,
+            49945
+          ]
+        },
+        {
+          "codigo": "2.03.04",
+          "descricao": "Reservas de Lucros",
+          "valores": [
+            3292499,
+            3292499
+          ]
+        },
+        {
+          "codigo": "2.03.04.01",
+          "descricao": "Reserva Legal",
+          "valores": [
+            715964,
+            715964
+          ]
+        },
+        {
+          "codigo": "2.03.04.05",
+          "descricao": "Reserva de Retenção de Lucros",
+          "valores": [
+            2845440,
+            2845440
+          ]
+        },
+        {
+          "codigo": "2.03.04.09",
+          "descricao": "Ações em Tesouraria",
+          "valores": [
+            -268905,
+            -268905
+          ]
+        },
+        {
+          "codigo": "2.03.05",
+          "descricao": "Lucros/Prejuízos Acumulados",
+          "valores": [
+            748352,
+            0
+          ]
+        },
+        {
+          "codigo": "2.03.08",
+          "descricao": "Outros Resultados Abrangentes",
+          "valores": [
+            877912,
+            704311
+          ]
+        },
+        {
+          "codigo": "2.03.09",
+          "descricao": "Participação dos Acionistas Não Controladores",
+          "valores": [
+            1283470,
+            1239474
+          ]
+        }
+      ]
+    },
+    "consolidadas/dre": {
+      "colunas": [
+        "trimestre_atual",
+        "acumulado_atual",
+        "trimestre_anterior",
+        "acumulado_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "3.01",
+          "descricao": "Receita de Venda de Bens e/ou Serviços",
+          "valores": [
+            2480871,
+            4505904,
+            2107130,
+            4059874
+          ]
+        },
+        {
+          "codigo": "3.02",
+          "descricao": "Custo dos Bens e/ou Serviços Vendidos",
+          "valores": [
+            -1627952,
+            -2987059,
+            -1417294,
+            -2735699
+          ]
+        },
+        {
+          "codigo": "3.03",
+          "descricao": "Resultado Bruto",
+          "valores": [
+            852919,
+            1518845,
+            689836,
+            1324175
+          ]
+        },
+        {
+          "codigo": "3.04",
+          "descricao": "Despesas/Receitas Operacionais",
+          "valores": [
+            -348527,
+            -640871,
+            -227536,
+            -482913
+          ]
+        },
+        {
+          "codigo": "3.04.01",
+          "descricao": "Despesas com Vendas",
+          "valores": [
+            -293787,
+            -570555,
+            -225655,
+            -426435
+          ]
+        },
+        {
+          "codigo": "3.04.01.01",
+          "descricao": "Despesas Com Venda",
+          "valores": [
+            -293787,
+            -570555,
+            -225655,
+            -426435
+          ]
+        },
+        {
+          "codigo": "3.04.02",
+          "descricao": "Despesas Gerais e Administrativas",
+          "valores": [
+            -134332,
+            -268177,
+            -126946,
+            -253653
+          ]
+        },
+        {
+          "codigo": "3.04.02.01",
+          "descricao": "Despesas da Administração",
+          "valores": [
+            -131833,
+            -263412,
+            -124794,
+            -249362
+          ]
+        },
+        {
+          "codigo": "3.04.02.02",
+          "descricao": "Honorários da Administração",
+          "valores": [
+            -2499,
+            -4765,
+            -2152,
+            -4291
+          ]
+        },
+        {
+          "codigo": "3.04.04",
+          "descricao": "Outras Receitas Operacionais",
+          "valores": [
+            8744,
+            30225,
+            26238,
+            29516
+          ]
+        },
+        {
+          "codigo": "3.04.04.01",
+          "descricao": "Outros Ganhos em Investimentos",
+          "valores": [
+            6783,
+            24493,
+            21608,
+            23892
+          ]
+        },
+        {
+          "codigo": "3.04.04.02",
+          "descricao": "Outras Receitas",
+          "valores": [
+            1961,
+            5732,
+            4630,
+            5624
+          ]
+        },
+        {
+          "codigo": "3.04.05",
+          "descricao": "Outras Despesas Operacionais",
+          "valores": [
+            -35709,
+            -67062,
+            -40782,
+            -84508
+          ]
+        },
+        {
+          "codigo": "3.04.05.01",
+          "descricao": "Outros Perdas em Investimentos",
+          "valores": [
+            -144,
+            -9116,
+            -14407,
+            -25649
+          ]
+        },
+        {
+          "codigo": "3.04.05.02",
+          "descricao": "Outras Despesas Operacionais",
+          "valores": [
+            -35565,
+            -57946,
+            -26375,
+            -58859
+          ]
+        },
+        {
+          "codigo": "3.04.06",
+          "descricao": "Resultado de Equivalência Patrimonial",
+          "valores": [
+            106557,
+            234698,
+            139609,
+            252167
+          ]
+        },
+        {
+          "codigo": "3.04.06.01",
+          "descricao": "Equivalência Patrimonial",
+          "valores": [
+            106557,
+            234698,
+            139609,
+            252167
+          ]
+        },
+        {
+          "codigo": "3.05",
+          "descricao": "Resultado Antes do Resultado Financeiro e dos Tributos",
+          "valores": [
+            504392,
+            877974,
+            462300,
+            841262
+          ]
+        },
+        {
+          "codigo": "3.06",
+          "descricao": "Resultado Financeiro",
+          "valores": [
+            69311,
+            107010,
+            66436,
+            125437
+          ]
+        },
+        {
+          "codigo": "3.06.01",
+          "descricao": "Receitas Financeiras",
+          "valores": [
+            332564,
+            593552,
+            252543,
+            464161
+          ]
+        },
+        {
+          "codigo": "3.06.02",
+          "descricao": "Despesas Financeiras",
+          "valores": [
+            -263253,
+            -486542,
+            -186107,
+            -338724
+          ]
+        },
+        {
+          "codigo": "3.07",
+          "descricao": "Resultado Antes dos Tributos sobre o Lucro",
+          "valores": [
+            573703,
+            984984,
+            528736,
+            966699
+          ]
+        },
+        {
+          "codigo": "3.08",
+          "descricao": "Imposto de Renda e Contribuição Social sobre o Lucro",
+          "valores": [
+            -54976,
+            -106198,
+            -49733,
+            -93883
+          ]
+        },
+        {
+          "codigo": "3.08.01",
+          "descricao": "Corrente",
+          "valores": [
+            -52535,
+            -98588,
+            -43481,
+            -86553
+          ]
+        },
+        {
+          "codigo": "3.08.02",
+          "descricao": "Diferido",
+          "valores": [
+            -2441,
+            -7610,
+            -6252,
+            -7330
+          ]
+        },
+        {
+          "codigo": "3.09",
+          "descricao": "Resultado Líquido das Operações Continuadas",
+          "valores": [
+            518727,
+            878786,
+            479003,
+            872816
+          ]
+        },
+        {
+          "codigo": "3.11",
+          "descricao": "Lucro/Prejuízo Consolidado do Período",
+          "valores": [
+            518727,
+            878786,
+            479003,
+            872816
+          ]
+        },
+        {
+          "codigo": "3.11.01",
+          "descricao": "Atribuído a Sócios da Empresa Controladora",
+          "valores": [
+            451576,
+            748352,
+            387807,
+            715439
+          ]
+        },
+        {
+          "codigo": "3.11.02",
+          "descricao": "Atribuído a Sócios Não Controladores",
+          "valores": [
+            67151,
+            130434,
+            91196,
+            157377
+          ]
+        },
+        {
+          "codigo": "3.99.01.01",
+          "descricao": "ON",
+          "valores": [
+            1.0363,
+            1.71736,
+            0.88996,
+            1.64183
+          ]
+        },
+        {
+          "codigo": "3.99.02.01",
+          "descricao": "ON",
+          "valores": [
+            1.0363,
+            1.71736,
+            0.88996,
+            1.64183
+          ]
+        }
+      ]
+    },
+    "consolidadas/fluxo_caixa": {
+      "colunas": [
+        "acumulado_atual",
+        "acumulado_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "6.01",
+          "descricao": "Caixa Líquido Atividades Operacionais",
+          "valores": [
+            99359,
+            -694979
+          ]
+        },
+        {
+          "codigo": "6.01.01",
+          "descricao": "Caixa Gerado nas Operações",
+          "valores": [
+            1236867,
+            985741
+          ]
+        },
+        {
+          "codigo": "6.01.01.01",
+          "descricao": "Depreciação de Bens do Ativo Imobilizado e Intangivel",
+          "valores": [
+            68157,
+            35128
+          ]
+        },
+        {
+          "codigo": "6.01.01.02",
+          "descricao": "Amortização de mais valia de ativos",
+          "valores": [
+            27592,
+            18946
+          ]
+        },
+        {
+          "codigo": "6.01.01.03",
+          "descricao": "Equivalência Patrimonial",
+          "valores": [
+            -234698,
+            -252167
+          ]
+        },
+        {
+          "codigo": "6.01.01.04",
+          "descricao": "Baixa de bens do ativo imobilizado e intangível",
+          "valores": [
+            66824,
+            29551
+          ]
+        },
+        {
+          "codigo": "6.01.01.05",
+          "descricao": "Juros, Variações Monetárias sobre Empréstimos",
+          "valores": [
+            561461,
+            366902
+          ]
+        },
+        {
+          "codigo": "6.01.01.06",
+          "descricao": "Impostos diferidos",
+          "valores": [
+            7125,
+            11377
+          ]
+        },
+        {
+          "codigo": "6.01.01.09",
+          "descricao": "Ajuste a Valor Presente",
+          "valores": [
+            4067,
+            34016
+          ]
+        },
+        {
+          "codigo": "6.01.01.10",
+          "descricao": "Lucro Líquido do Período antes do IR e CS",
+          "valores": [
+            984984,
+            966699
+          ]
+        },
+        {
+          "codigo": "6.01.01.11",
+          "descricao": "Encargos Capitalizados",
+          "valores": [
+            137995,
+            82066
+          ]
+        },
+        {
+          "codigo": "6.01.01.12",
+          "descricao": "Provisão para garantia",
+          "valores": [
+            56581,
+            50205
+          ]
+        },
+        {
+          "codigo": "6.01.01.13",
+          "descricao": "Resultado Operacional Swap",
+          "valores": [
+            7064,
+            -841
+          ]
+        },
+        {
+          "codigo": "6.01.01.16",
+          "descricao": "Rendimentos de titulos e valores mobiliarios",
+          "valores": [
+            -549768,
+            -428125
+          ]
+        },
+        {
+          "codigo": "6.01.01.18",
+          "descricao": "Provisões Para Riscos Tributários, Trabalhistas e Cíveis",
+          "valores": [
+            39096,
+            42351
+          ]
+        },
+        {
+          "codigo": "6.01.01.20",
+          "descricao": "Provisão para riscos de crédito",
+          "valores": [
+            60387,
+            29633
+          ]
+        },
+        {
+          "codigo": "6.01.02",
+          "descricao": "Variações nos Ativos e Passivos",
+          "valores": [
+            -544877,
+            -1241926
+          ]
+        },
+        {
+          "codigo": "6.01.02.02",
+          "descricao": "Diminuição (aumento) em contas a receber",
+          "valores": [
+            -474551,
+            -576449
+          ]
+        },
+        {
+          "codigo": "6.01.02.03",
+          "descricao": "Redução (aumento) Imoveis a Comercializar",
+          "valores": [
+            -400183,
+            -958770
+          ]
+        },
+        {
+          "codigo": "6.01.02.04",
+          "descricao": "Redução (aumento) Conta Corrente Parceiro nos empreendimentos",
+          "valores": [
+            468,
+            -11559
+          ]
+        },
+        {
+          "codigo": "6.01.02.05",
+          "descricao": "Redução (aumento) Partes Relacionadas",
+          "valores": [
+            48431,
+            118776
+          ]
+        },
+        {
+          "codigo": "6.01.02.06",
+          "descricao": "Redução (aumento) Impostos e Contribuições a Compensar",
+          "valores": [
+            -34992,
+            -17912
+          ]
+        },
+        {
+          "codigo": "6.01.02.07",
+          "descricao": "Redução (aumento) Despesas com Vendas a Apropriar",
+          "valores": [
+            -20851,
+            -31390
+          ]
+        },
+        {
+          "codigo": "6.01.02.08",
+          "descricao": "Redução (aumento) Despesas Antecipadas",
+          "valores": [
+            9023,
+            -27263
+          ]
+        },
+        {
+          "codigo": "6.01.02.09",
+          "descricao": "Redução (aumento) Demais Ativos",
+          "valores": [
+            -51700,
+            19027
+          ]
+        },
+        {
+          "codigo": "6.01.02.10",
+          "descricao": "Redução (aumento) Contas a Pagar de Imoveis",
+          "valores": [
+            243301,
+            39927
+          ]
+        },
+        {
+          "codigo": "6.01.02.12",
+          "descricao": "Redução (aumento) Impostos e Contribuições a Recolher",
+          "valores": [
+            -35231,
+            -3759
+          ]
+        },
+        {
+          "codigo": "6.01.02.13",
+          "descricao": "Redução (aumento) Fornecedores de Bens e Serviços",
+          "valores": [
+            33306,
+            40548
+          ]
+        },
+        {
+          "codigo": "6.01.02.14",
+          "descricao": "Salários",
+          "valores": [
+            -6408,
+            2950
+          ]
+        },
+        {
+          "codigo": "6.01.02.15",
+          "descricao": "Adiantamento de clientes",
+          "valores": [
+            46552,
+            195220
+          ]
+        },
+        {
+          "codigo": "6.01.02.16",
+          "descricao": "Redução (aumento) Demais Passivos",
+          "valores": [
+            137137,
+            10612
+          ]
+        },
+        {
+          "codigo": "6.01.02.18",
+          "descricao": "Redução (aumento) Provisão para Manutenção de Imóveis",
+          "valores": [
+            -39179,
+            -41884
+          ]
+        },
+        {
+          "codigo": "6.01.03",
+          "descricao": "Outros",
+          "valores": [
+            -592631,
+            -438794
+          ]
+        },
+        {
+          "codigo": "6.01.03.01",
+          "descricao": "Impostos e contribuições pagos",
+          "valores": [
+            -100874,
+            -85072
+          ]
+        },
+        {
+          "codigo": "6.01.03.02",
+          "descricao": "Juros pagos",
+          "valores": [
+            -439460,
+            -293990
+          ]
+        },
+        {
+          "codigo": "6.01.03.03",
+          "descricao": "Indenizações pagas",
+          "valores": [
+            -52297,
+            -59732
+          ]
+        },
+        {
+          "codigo": "6.02",
+          "descricao": "Caixa Líquido Atividades de Investimento",
+          "valores": [
+            -544345,
+            -328713
+          ]
+        },
+        {
+          "codigo": "6.02.01",
+          "descricao": "Aquisição de bens do ativo imobilizado",
+          "valores": [
+            -151247,
+            -82833
+          ]
+        },
+        {
+          "codigo": "6.02.03",
+          "descricao": "Recebimento de dividendos",
+          "valores": [
+            128852,
+            231551
+          ]
+        },
+        {
+          "codigo": "6.02.04",
+          "descricao": "(Aumento) redução de investimento",
+          "valores": [
+            -8084,
+            31395
+          ]
+        },
+        {
+          "codigo": "6.02.05",
+          "descricao": "Aquisição de bens do ativo intangível",
+          "valores": [
+            -14821,
+            -1158
+          ]
+        },
+        {
+          "codigo": "6.02.06",
+          "descricao": "Diminuição (aumento) em aplicações financeiras",
+          "valores": [
+            -477570,
+            -517392
+          ]
+        },
+        {
+          "codigo": "6.02.07",
+          "descricao": "Instrumentos financeiros e derivativos",
+          "valores": [
+            -21475,
+            9724
+          ]
+        },
+        {
+          "codigo": "6.03",
+          "descricao": "Caixa Líquido Atividades de Financiamento",
+          "valores": [
+            -50899,
+            670872
+          ]
+        },
+        {
+          "codigo": "6.03.01",
+          "descricao": "Ingresso de novos empréstimos e financiamentos",
+          "valores": [
+            1717285,
+            1911628
+          ]
+        },
+        {
+          "codigo": "6.03.02",
+          "descricao": "Pagamento de empréstimos, financiamentos e CRI",
+          "valores": [
+            -1681746,
+            -1113963
+          ]
+        },
+        {
+          "codigo": "6.03.09",
+          "descricao": "Distribuição de dividendos para acionistas não controladores",
+          "valores": [
+            -151754,
+            -45414
+          ]
+        },
+        {
+          "codigo": "6.03.10",
+          "descricao": "Aumento (Redução) na Participação dos acionistas não controladores",
+          "valores": [
+            65316,
+            -77783
+          ]
+        },
+        {
+          "codigo": "6.03.11",
+          "descricao": "Ações em Tesouraria",
+          "valores": [
+            0,
+            -3596
+          ]
+        },
+        {
+          "codigo": "6.05",
+          "descricao": "Aumento (Redução) de Caixa e Equivalentes",
+          "valores": [
+            -495885,
+            -352820
+          ]
+        },
+        {
+          "codigo": "6.05.01",
+          "descricao": "Saldo Inicial de Caixa e Equivalentes",
+          "valores": [
+            726554,
+            531729
+          ]
+        },
+        {
+          "codigo": "6.05.02",
+          "descricao": "Saldo Final de Caixa e Equivalentes",
+          "valores": [
+            230669,
+            178909
+          ]
+        }
+      ]
+    },
+    "consolidadas/dva": {
+      "colunas": [
+        "acumulado_atual",
+        "acumulado_anterior"
+      ],
+      "contas": [
+        {
+          "codigo": "7.01",
+          "descricao": "Receitas",
+          "valores": [
+            4635938,
+            4176289
+          ]
+        },
+        {
+          "codigo": "7.01.01",
+          "descricao": "Vendas de Mercadorias, Produtos e Serviços",
+          "valores": [
+            4690615,
+            4200903
+          ]
+        },
+        {
+          "codigo": "7.01.02",
+          "descricao": "Outras Receitas",
+          "valores": [
+            5710,
+            5019
+          ]
+        },
+        {
+          "codigo": "7.01.04",
+          "descricao": "Provisão/Reversão de Créds. Liquidação Duvidosa",
+          "valores": [
+            -60387,
+            -29633
+          ]
+        },
+        {
+          "codigo": "7.02",
+          "descricao": "Insumos Adquiridos de Terceiros",
+          "valores": [
+            -3501674,
+            -3179384
+          ]
+        },
+        {
+          "codigo": "7.02.01",
+          "descricao": "Custos Prods., Mercs. e Servs. Vendidos",
+          "valores": [
+            -2987059,
+            -2735699
+          ]
+        },
+        {
+          "codigo": "7.02.02",
+          "descricao": "Materiais, Energia, Servs. de Terceiros e Outros",
+          "valores": [
+            -456691,
+            -385430
+          ]
+        },
+        {
+          "codigo": "7.02.04",
+          "descricao": "Outros",
+          "valores": [
+            -57924,
+            -58255
+          ]
+        },
+        {
+          "codigo": "7.03",
+          "descricao": "Valor Adicionado Bruto",
+          "valores": [
+            1134264,
+            996905
+          ]
+        },
+        {
+          "codigo": "7.04",
+          "descricao": "Retenções",
+          "valores": [
+            -121374,
+            -74309
+          ]
+        },
+        {
+          "codigo": "7.04.01",
+          "descricao": "Depreciação, Amortização e Exaustão",
+          "valores": [
+            -121374,
+            -55364
+          ]
+        },
+        {
+          "codigo": "7.04.02",
+          "descricao": "Outras",
+          "valores": [
+            0,
+            -18945
+          ]
+        },
+        {
+          "codigo": "7.04.02.01",
+          "descricao": "Amortização de mais valia de ativos",
+          "valores": [
+            0,
+            -18945
+          ]
+        },
+        {
+          "codigo": "7.05",
+          "descricao": "Valor Adicionado Líquido Produzido",
+          "valores": [
+            1012890,
+            922596
+          ]
+        },
+        {
+          "codigo": "7.06",
+          "descricao": "Vlr Adicionado Recebido em Transferência",
+          "valores": [
+            843627,
+            733517
+          ]
+        },
+        {
+          "codigo": "7.06.01",
+          "descricao": "Resultado de Equivalência Patrimonial",
+          "valores": [
+            234698,
+            252167
+          ]
+        },
+        {
+          "codigo": "7.06.02",
+          "descricao": "Receitas Financeiras",
+          "valores": [
+            593552,
+            464161
+          ]
+        },
+        {
+          "codigo": "7.06.03",
+          "descricao": "Outros",
+          "valores": [
+            15377,
+            17189
+          ]
+        },
+        {
+          "codigo": "7.06.03.01",
+          "descricao": "Outros Resultados em Investimentos",
+          "valores": [
+            15377,
+            17189
+          ]
+        },
+        {
+          "codigo": "7.07",
+          "descricao": "Valor Adicionado Total a Distribuir",
+          "valores": [
+            1856517,
+            1656113
+          ]
+        },
+        {
+          "codigo": "7.08",
+          "descricao": "Distribuição do Valor Adicionado",
+          "valores": [
+            1856517,
+            1656113
+          ]
+        },
+        {
+          "codigo": "7.08.01",
+          "descricao": "Pessoal",
+          "valores": [
+            239014,
+            220277
+          ]
+        },
+        {
+          "codigo": "7.08.01.01",
+          "descricao": "Remuneração Direta",
+          "valores": [
+            99947,
+            89203
+          ]
+        },
+        {
+          "codigo": "7.08.01.02",
+          "descricao": "Benefícios",
+          "valores": [
+            18070,
+            21904
+          ]
+        },
+        {
+          "codigo": "7.08.01.03",
+          "descricao": "F.G.T.S.",
+          "valores": [
+            7528,
+            8229
+          ]
+        },
+        {
+          "codigo": "7.08.01.04",
+          "descricao": "Outros",
+          "valores": [
+            113469,
+            100941
+          ]
+        },
+        {
+          "codigo": "7.08.01.04.01",
+          "descricao": "Comissões sobre vendas",
+          "valores": [
+            61632,
+            57603
+          ]
+        },
+        {
+          "codigo": "7.08.01.04.02",
+          "descricao": "Honorários de diretoria",
+          "valores": [
+            4765,
+            4291
+          ]
+        },
+        {
+          "codigo": "7.08.01.04.03",
+          "descricao": "Participação de empregados nos lucros",
+          "valores": [
+            47072,
+            39047
+          ]
+        },
+        {
+          "codigo": "7.08.02",
+          "descricao": "Impostos, Taxas e Contribuições",
+          "valores": [
+            252175,
+            224296
+          ]
+        },
+        {
+          "codigo": "7.08.02.01",
+          "descricao": "Federais",
+          "valores": [
+            239178,
+            210095
+          ]
+        },
+        {
+          "codigo": "7.08.02.03",
+          "descricao": "Municipais",
+          "valores": [
+            12997,
+            14201
+          ]
+        },
+        {
+          "codigo": "7.08.03",
+          "descricao": "Remuneração de Capitais de Terceiros",
+          "valores": [
+            486542,
+            338724
+          ]
+        },
+        {
+          "codigo": "7.08.03.01",
+          "descricao": "Juros",
+          "valores": [
+            486542,
+            338724
+          ]
+        },
+        {
+          "codigo": "7.08.04",
+          "descricao": "Remuneração de Capitais Próprios",
+          "valores": [
+            878786,
+            872816
+          ]
+        },
+        {
+          "codigo": "7.08.04.03",
+          "descricao": "Lucros Retidos / Prejuízo do Período",
+          "valores": [
+            748352,
+            715439
+          ]
+        },
+        {
+          "codigo": "7.08.04.04",
+          "descricao": "Part. Não Controladores nos Lucros Retidos",
+          "valores": [
+            130434,
+            157377
+          ]
+        }
+      ]
+    }
+  }
+}
